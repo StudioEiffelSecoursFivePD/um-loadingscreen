@@ -1,3 +1,7 @@
-- Nouvelle Base optimisé
-- Nouveaux props
-- Nouvel écran de chargement
+Maj 1.0
+
+- Nouvelle identité visuelle (logo et bannière).
+- Passage du serveur de 64 à 32 slots.
+- Changement de l'écran de chargement
+- Traduction de l'ensemble des scripts du serveur.
+- Correction de nombreux bugs (véhicules, et props).
